@@ -1,0 +1,8 @@
+{
+  "name": "node-wkhtmltopdf-service",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
